@@ -1,2 +1,0 @@
-# citra-digital-
-.
